@@ -11,5 +11,5 @@ services:
     env_file:
       - .env
     ports:
-      - "80:80"
+      - "81:80"
     tty: true
